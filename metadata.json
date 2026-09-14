@@ -1,0 +1,10 @@
+{
+  "name": "Easy Translate",
+  "description": "A multilingual translator with voice conversation mode and customizable text-to-speech settings.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
